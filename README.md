@@ -7,18 +7,14 @@ SpyTalk is a simple web project designed to simulate a spy-style messaging inter
 - Easy to expand with JavaScript or CSS
 
 ## Project Structure
-\`\`\`
-SpyTalk/
-├── index.html
-└── README.md
-\`\`\`
+SpyTalk
+- index.html
+- README.md
 
 ## Getting Started
 To view the project:
 1. Clone the repo:
-  \`\`\`
-   git clone https://github.com/BiyaBClara/SpyTalk.git
-   \`\`\`
+   - git clone https://github.com/BiyaBClara/SpyTalk.git
 2. Open \`index.html\` in your browser.
 
 ## Future Improvements
