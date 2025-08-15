@@ -22,5 +22,5 @@ To view the project:
 - Add JavaScript for interactive spy effects
 - Include encryption features for fun
 
-## 🧑‍💻 Author
+## Author
 Made with ❤️ by [Biya B Clara](https://github.com/BiyaBClara)
